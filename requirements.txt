@@ -1,0 +1,4 @@
+deepspeech==0.9.3
+webrtcvad
+pyqt5~=5.15.6
+numpy~=1.17.3
